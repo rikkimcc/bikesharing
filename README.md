@@ -30,3 +30,9 @@ This analysis takes a look at Citi Bike's ride sharing data in New York City to 
 
 - This graph displays the length of time bikes are rented for - broken out by gender. 
 
+------------
+<img width="855" alt="Screen Shot 2021-12-06 at 8 40 34 PM" src="https://user-images.githubusercontent.com/89141436/144950303-63f1ea4f-17de-485b-9e46-63d226f6704e.png">
+
+- This Dashboard displays two tables with total rides by start and end station. According to the data, the most popular starting stations are also the most popular ending stations. This could be due to stations located in high tourist attracting areas. 
+
+
